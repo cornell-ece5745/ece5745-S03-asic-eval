@@ -119,9 +119,15 @@ when you run the configure script.
     % make list
 
 The `list` Makefile target will display the various targets that you can
-use to manage the flow. The following two commands will perform synthesis
-(the front-end of the flow) and then place-and-route (the back-end of the
-flow).
+use to manage the flow. You can use the following to generate a figure of
+the overall ASIC flow.
+
+    % cd $TOPDIR/asic/build-fixed
+    % make graph
+
+You can open the generated `graph.pdf` file to see the figure. The
+following two commands will perform synthesis (the front-end of the flow)
+and then place-and-route (the back-end of the flow).
 
     % cd $TOPDIR/asic/build-fixed
     % make synopsys-dc-synthesis

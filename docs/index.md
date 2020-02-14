@@ -39,7 +39,7 @@ track of the top directory for the project.
     % mkdir $HOME/ece5745
     % cd $HOME/ece5745
     % git clone https://github.com/cornell-ece5745/ece5745-S03-asic-eval
-    % cd ece5745-S02-back-end
+    % cd ece5745-S03-asic-eval
     % TOPDIR=$PWD
 
 Generating the Design

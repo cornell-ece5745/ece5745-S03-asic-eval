@@ -172,7 +172,7 @@ Innovus.
 
     % make debug-cadence-innovus-place-route
 
-You can use the amobea workspace to help visualize how modules are mapped
+You can use the design browser to help visualize how modules are mapped
 across the chip. Here are the steps:
 
  - Choose _Windows > Workspaces > Design Browser + Physical_ from the menu

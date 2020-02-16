@@ -175,7 +175,6 @@ Innovus.
 You can use the amobea workspace to help visualize how modules are mapped
 across the chip. Here are the steps:
 
- - Choose _Windows > Workspaces > Amoeba_ from the menu
  - Choose _Windows > Workspaces > Design Browser + Physical_ from the menu
  - Hide all of the metal layers by pressing the number keys
  - Browse the design hierarchy using the panel on the left
